@@ -11,6 +11,6 @@
     <title>Greeting Controller</title>
 </head>
 <body>
-<h1>Hello spring MVC</h1>
+<h1>Hello: ${name}</h1>
 </body>
 </html>
